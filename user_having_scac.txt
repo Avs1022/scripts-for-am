@@ -1,86 +1,104 @@
-for Rk1fMTA0MTQ0
-carrierseraunverified@mailinator.com      carrier-sera      ['SERASCAC'] 
-carriersera@mailinator.com      carrier-sera      ['SERASCAC'] 
-unverifiedcarrieruser0249@mailinator.com      unverified-am-carrier      ['UNVERIFIED'] 
-dushantkoul1593@gmail.com      test-carrier-3259      ['6786'] 
-ayman@mailinator.com      ayman-carrier      ['TESTSCAC'] 
-for Rk1fMTA2NTY3NQ==
-for Rk1fMTA2Njk4MA==
-for Rk1fMTA2Njk4Mg==
-for Rk1fMTA3NTU1MQ==
-carriersera@yopmail.com      carrier-sera      ['SCAC1', 'SCAC', 'NEWSCAC', 'ARUN', 'KARTHI', 'ARUNKARTHI', '2345678'] 
-7c135837949@inactivemachine.com      popla-inc      ['AQLL'] 
-myselfsignup@yopmail.com      carrier-sera      ['ARUNKARTHIT', 'NEW', 'YES'] 
-testcarrierautocopyscac1@yopmail.com      testcarriercompanyam      ['SCAC'] 
-carriersera1@yopmail.com      carrier-sera      ['SCAC'] 
-for Rk1fMTA4OTUwNQ==
-for Rk1fMTA5NjM2NA==
-for Rk1fMTA5Njc5Nw==
-for Rk1fMTA5Njk3NA==
-mailtokdtest003@yopmail.com      carrier-sera      ['OMPH'] 
-kdtest001carrier@yopmail.com      carrierscac      ['XXX'] 
-for Rk1fMTA5NzA0MA==
-for Rk1fMTA5NzA1MQ==
-for Rk1fMTA5NzA1Mw==
-for Rk1fMTA5NzE4Nw==
-for Rk1fMTA5NzE4OA==
-for Rk1fMTA5NzE5NQ==
-for Rk1fMTA5ODIxNA==
-for Rk1fMTA5ODcxMA==
-for Rk1fMTAxNjQ0
-for Rk1fMTAxNjk2Nw==
-for Rk1fMTEwMDU1MQ==
-for Rk1fMTEwMzYxNg==
-for Rk1fMTkxMzIy
-for Rk1fMzQ5NDk0
-for Rk1fNDE2Nzcw
-for Rk1fNDg0ODQ4
-vivinduplicatecompanynewuser2@mailinator.com      vivin-original-company      ['VDCNU2'] 
-vivinduplicatecompanynewuser1@mailinator.com      vivin-original-company      ['VDCNU1'] 
-vivinduplicatecompanynewuser3@mailinator.com      vivin-original-company      ['VDCNU3'] 
-vivinoriginalcompany2@mailinator.com      vivin-original-company      ['VOCU1'] 
-vivinoriginalcompany1@mailinator.com      vivin-original-company      ['VOCU1'] 
-for Rk1fNTMyMzU=
-fwkdtest001@yopmail.com      shipper-sera-2      ['TRY'] 
-for Rk1fNTU1NzU4
-for Rk1fNjA1ODI3
-for Rk1fNjA1ODI4
-invite00123@mailinator.com      test568790      ['iuujnijin'] 
-vivintesting1530@mailinator.com      vivinselfsignup12334      ['234'] 
-amdemobrokeruser@mailinator.com      am-demo-broker      ['567', '234'] 
-jbhunt@mailinator.com      jb-hunt      ['JBH', '67'] 
-vivinduplicatecompany1@mailinator.com      vivin-original-company      ['VDCU1'] 
-vivinduplicatecompany2@mailinator.com      vivin-original-company      ['VDCU2'] 
-jbhuntuser1@mailinator.com      jb-hunt      ['JBH'] 
-qatcarrieruser2@mailinator.com      xlft      ['SHAC'] 
-invite13@yopmail.com      selfsigntest134444      ['ABCD'] 
-testam@c.com      rnmf-transportation-llc      ['abcd'] 
-invite12222@mailinator.com      carrier-sera-2247      ['ABCD'] 
-aprilregcarrier@mailinator.com      april-reg-carrier      ['APRILTL', 'APRILAM', 'EUR'] 
-vivinduplicatecompany3@mailinator.com      vivin-original-company      ['VDCU3'] 
-testcollab1@mailinator.com      carrier-sera      ['TL', 'TL1', 'C1', 'C2', 'M1'] 
-emailtest@mailinator.com      carrier-sera-2247      ['TL'] 
-all@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
-test74747@yopmail.com      colossal-carriers      ['NEW', 'NEW1'] 
-apmteucarrier1@mailinator.com      apmteu      ['EU1'] 
-for Rk1fNjE3MzQ5
-multicarrieruser1@mailinator.com      multiinvite      ['ete4rt'] 
-testingeurope@mailinator.com      testing-europe      ['TST'] 
-carriersera2@mailinator.com      carrier-sera      ['WPWP'] 
-qatcarrieruser@mailinator.com      dean-carrier      ['SCAC1'] 
-for Rk1fNjU0ODc1
-re15@dispostable.com      wsds      ['223311'] 
-re32@dispostable.com      shipper-sera-807      ['D222'] 
-for Rk1fNjc5NDI5
-for Rk1fODM2MDc4
-for Rk1fODU4NDA4
-vaijayanthi12345@mailinator.com      vaijayanthi12345      ['ABCD'] 
-vivindup12@mailinator.com      vivin-original-company      ['ABCD'] 
-vivinselfsignuptest@mailinator.com      test-no-carrier-users-1      ['ABCD'] 
-for Rk1fODUwNTY2
-for Rk1fODY3ODY0
-for Rk1fODYxNDU1
-rakshanafk@gmail.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
-for Rk1fODg1Mjcy
-for Rk1fOTAzMTQy
-for Rk1fOTM5MDA4
+NY - TX Facility12 carrierseraunverified@mailinator.com      carrier-sera      ['SERASCAC'] 
+NY - TX Facility12 carriersera@mailinator.com      carrier-sera      ['SERASCAC'] 
+NY - TX Facility12 unverifiedcarrieruser0249@mailinator.com      unverified-am-carrier      ['UNVERIFIED'] 
+NY - TX Facility12 vivinduplicatecompanynewuser2@mailinator.com      vivin-original-company      ['VDCNU2'] 
+NY - TX Facility12 dushantkoul1593@gmail.com      test-carrier-3259      ['6786'] 
+NY - TX Facility12 ayman@mailinator.com      ayman-carrier      ['TESTSCAC'] 
+NY - TX Facility12 all@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+NY - TX Facility12 vivinduplicatecompanynewuser1@mailinator.com      vivin-original-company      ['VDCNU1'] 
+NY - TX Facility12 vivinduplicatecompanynewuser3@mailinator.com      vivin-original-company      ['VDCNU3'] 
+FRA FAC carriersera@yopmail.com      carrier-sera      ['SCAC1', 'SCAC', 'NEWSCAC', 'ARUN', 'KARTHI', 'ARUNKARTHI', '2345678'] 
+FRA FAC 7c135837949@inactivemachine.com      popla-inc      ['AQLL'] 
+FRA FAC carriersera@mailinator.com      carrier-sera      ['TL', 'TL1'] 
+FRA FAC myselfsignup@yopmail.com      carrier-sera      ['ARUNKARTHIT', 'NEW', 'YES'] 
+FRA FAC testcarrierautocopyscac1@yopmail.com      testcarriercompanyam      ['SCAC'] 
+FRA FAC carriersera1@yopmail.com      carrier-sera      ['SCAC'] 
+FRA FAC rakshanafk@gmail.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+Facility Dummy carriersera@yopmail.com      carrier-sera      ['SCAC1', 'SCAC', 'NEWSCAC', 'ARUN', 'KARTHI', 'ARUNKARTHI', '2345678'] 
+Facility 1 carriersera@mailinator.com      carrier-sera      ['SERASCAC'] 
+KD Test Facility carriersera@yopmail.com      carrier-sera      ['XXXX', 'OAS', 'MNOP', 'PSG'] 
+KD Test Facility mailtokdtest003@yopmail.com      carrier-sera      ['OMPH'] 
+KD Test Facility kdtest001carrier@yopmail.com      carrierscac      ['XXX'] 
+PDT -25200 facility carriersera@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+1232 rakshanafk@gmail.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+Nov Facility with alt addr carriersera@mailinator.com      carrier-sera      ['ABCD'] 
+Nov Facility vivinduplicatecompanynewuser2@mailinator.com      vivin-original-company      ['VDCNU2'] 
+Nov Facility vivinduplicatecompanynewuser1@mailinator.com      vivin-original-company      ['VDCNU1'] 
+Nov Facility vivinduplicatecompanynewuser3@mailinator.com      vivin-original-company      ['VDCNU3'] 
+Nov Facility vivinoriginalcompany2@mailinator.com      vivin-original-company      ['VOCU1'] 
+Nov Facility vivinoriginalcompany1@mailinator.com      vivin-original-company      ['VOCU1'] 
+Nov Facility carriersera@mailinator.com      carrier-sera      ['SERASCAC'] 
+1-Ayman's Facility - mat but no prod unverifiedcarrieruser0249@mailinator.com      unverified-am-carrier      ['1343'] 
+1-Ayman's Facility - mat but no prod ayman@mailinator.com      ayman-carrier      ['TESTSCAC'] 
+1-Ayman's Facility - mat but no prod carriersera@mailinator.com      carrier-sera      ['SERASCAC'] 
+1-Ayman's Facility - mat but no prod fwkdtest001@yopmail.com      shipper-sera-2      ['TRY'] 
+1-Ayman's Facility - mat but no prod carriersera@yopmail.com      carrier-sera      ['SCAC1', 'SCAC', 'NEWSCAC', 'ARUN', 'KARTHI', 'ARUNKARTHI', '2345678'] 
+1-Ayman's Facility - mat but no prod all@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+Facility stop 1 - Omaha carriersera@mailinator.com      carrier-sera      ['SERASCAC'] 
+Facility stop 1 - Omaha rakshanafk@gmail.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+8300 Haskell Ave invite00123@mailinator.com      test568790      ['iuujnijin'] 
+8300 Haskell Ave vivintesting1530@mailinator.com      vivinselfsignup12334      ['234'] 
+8300 Haskell Ave amdemobrokeruser@mailinator.com      am-demo-broker      ['567', '234'] 
+8300 Haskell Ave vivinduplicatecompanynewuser2@mailinator.com      vivin-original-company      ['VDCNU2'] 
+8300 Haskell Ave jbhunt@mailinator.com      jb-hunt      ['JBH', '67'] 
+8300 Haskell Ave vivinduplicatecompany1@mailinator.com      vivin-original-company      ['VDCU1'] 
+8300 Haskell Ave vivinduplicatecompany2@mailinator.com      vivin-original-company      ['VDCU2'] 
+8300 Haskell Ave vivinoriginalcompany1@mailinator.com      vivin-original-company      ['VOCU1'] 
+8300 Haskell Ave jbhuntuser1@mailinator.com      jb-hunt      ['JBH'] 
+8300 Haskell Ave vivinoriginalcompany2@mailinator.com      vivin-original-company      ['VOCU2'] 
+8300 Haskell Ave qatcarrieruser2@mailinator.com      xlft      ['SHAC'] 
+8300 Haskell Ave invite13@yopmail.com      selfsigntest134444      ['ABCD'] 
+8300 Haskell Ave ayman@mailinator.com      ayman-carrier      ['ABCDE'] 
+8300 Haskell Ave testam@c.com      rnmf-transportation-llc      ['abcd'] 
+8300 Haskell Ave invite12222@mailinator.com      carrier-sera-2247      ['ABCD'] 
+8300 Haskell Ave aprilregcarrier@mailinator.com      april-reg-carrier      ['APRILTL', 'APRILAM', 'EUR'] 
+8300 Haskell Ave vivinduplicatecompany3@mailinator.com      vivin-original-company      ['VDCU3'] 
+8300 Haskell Ave testcollab1@mailinator.com      carrier-sera      ['TL', 'TL1', 'C1', 'C2', 'M1'] 
+8300 Haskell Ave emailtest@mailinator.com      carrier-sera-2247      ['TL'] 
+8300 Haskell Ave all@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+8300 Haskell Ave test74747@yopmail.com      colossal-carriers      ['NEW', 'NEW1'] 
+8300 Haskell Ave apmteucarrier1@mailinator.com      apmteu      ['EU1'] 
+8300 Haskell Ave carriersera@yopmail.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360', 'SCAC'] 
+APMT - Valencia_1 multicarrieruser1@mailinator.com      multiinvite      ['ete4rt'] 
+APMT - Valencia_1 testingeurope@mailinator.com      testing-europe      ['TST'] 
+APMT - Valencia_1 carriersera2@mailinator.com      carrier-sera      ['WPWP'] 
+APMT - Valencia_1 ayman@mailinator.com      ayman-carrier      ['XXXX'] 
+APMT - Valencia_1 qatcarrieruser@mailinator.com      dean-carrier      ['SCAC1'] 
+APMT - Valencia_1 carriersera@mailinator.com      carrier-sera      ['TESTSERA'] 
+APMT - Valencia_1 qatcarrieruser2@mailinator.com      xlft      ['SHAC'] 
+Licoln facility re15@dispostable.com      wsds      ['223311'] 
+Licoln facility re32@dispostable.com      shipper-sera-807      ['D222'] 
+Licoln facility all@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+Licoln facility qatcarrieruser@mailinator.com      dean-carrier      ['SCAC1'] 
+Duplicate Carrier checking facility vivinoriginalcompany1@mailinator.com      vivin-original-company      ['VOCU1'] 
+Duplicate Carrier checking facility vivinduplicatecompany2@mailinator.com      vivin-original-company      ['VDCU2'] 
+Duplicate Carrier checking facility vivinduplicatecompany1@mailinator.com      vivin-original-company      ['VDCU1'] 
+Duplicate Carrier checking facility vivinoriginalcompany2@mailinator.com      vivin-original-company      ['VOCU2'] 
+Duplicate Carrier checking facility vivinduplicatecompanynewuser2@mailinator.com      vivin-original-company      ['VDCNU2'] 
+Duplicate Carrier checking facility vivinduplicatecompany3@mailinator.com      vivin-original-company      ['VDCU3'] 
+Duplicate Carrier checking facility carriersera@mailinator.com      carrier-sera      ['CS'] 
+Duplicate Carrier checking facility vivinduplicatecompanynewuser3@mailinator.com      vivin-original-company      ['VDCNU3'] 
+Duplicate Carrier checking facility qatcarrieruser2@mailinator.com      xlft      ['SHAC'] 
+Duplicate Carrier checking facility vivinduplicatecompanynewuser1@mailinator.com      vivin-original-company      ['VDCNU1'] 
+Clemens Road carriersera@mailinator.com      carrier-sera      ['SERASCAC'] 
+Clemens Road qatcarrieruser2@mailinator.com      xlft      ['SHAC'] 
+MST -25200 Facility invite13@yopmail.com      selfsigntest134444      ['ABCD'] 
+MST -25200 Facility all@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+MST -25200 Facility vaijayanthi12345@mailinator.com      vaijayanthi12345      ['ABCD'] 
+MST -25200 Facility invite00123@mailinator.com      test568790      ['iuujnijin'] 
+MST -25200 Facility vivindup12@mailinator.com      vivin-original-company      ['ABCD'] 
+MST -25200 Facility vivinselfsignuptest@mailinator.com      test-no-carrier-users-1      ['ABCD'] 
+MDT -21600 Facility qatcarrieruser2@mailinator.com      xlft      ['SHAC'] 
+Volvo, Gent1 multicarrieruser1@mailinator.com      multiinvite      ['ete4rt'] 
+Volvo, Gent1 all@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+Volvo, Gent1 vaijayanthi12345@mailinator.com      vaijayanthi12345      ['ABCD'] 
+Volvo, Gent1 carriersera@mailinator.com      carrier-sera      ['TL'] 
+Volvo, Gent1 rakshanafk@gmail.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+Volvo, Gent1 emailtest@mailinator.com      carrier-sera-2247      ['TL'] 
+Volvo, Gent1 aprilregcarrier@mailinator.com      april-reg-carrier      ['APRILTL', 'APRILAM', 'EUR'] 
+Volvo, Gent1 qatcarrieruser@mailinator.com      dean-carrier      ['SCAC1'] 
+Volvo, Gent1 testingeurope@mailinator.com      testing-europe      ['TST'] 
+Activate facility for carriersera@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
+CST -21600 Facility carriersera@mailinator.com      carrier-sera      ['asdasd'] 
+CST -21600 Facility qatcarrieruser2@mailinator.com      xlft      ['SHAC'] 
+CDT -18000 Facility carriersera@mailinator.com      carrier-sera      ['TL', 'TL1', 'scac1234', 'CAR-130360'] 
